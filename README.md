@@ -7,4 +7,12 @@ You can specify the topic, and languages in the files `.tmux-cht-languages` and 
 
 It uses `fzf` to select the topic and language interactively. If you don't have `fzf` installed, you will have to install it to get the script working.
 
+## Usage
 
+Run `cht.bat` in your windows terminal, you'll be prompted with selecting the programming language you want to query, or the command.
+
+![image](https://github.com/user-attachments/assets/0049e9f8-ead6-4ee4-a7eb-c53654e75b69)
+
+![image](https://github.com/user-attachments/assets/34076541-abc1-43ed-bd7a-bd1282fb5e85)
+
+![image](https://github.com/user-attachments/assets/dbd7a9f7-16ad-4344-b918-3a997853fe90)
